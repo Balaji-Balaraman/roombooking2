@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.virtualpairprogrammers</groupId>
-	<artifactId>roombooking</artifactId>
+	<artifactId>roombooking2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>roombooking</name>
 	<packaging>war</packaging>
